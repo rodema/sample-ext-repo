@@ -1,0 +1,9 @@
+{
+  "name": "sample-ext-mmr1",
+  "provider": "sap",
+  "description": "sample extension",
+  "version": "0.1",
+  "icon": "",
+  "dockerRegistry": "docker.io/matthiasrode",
+  "parameters": []
+}
